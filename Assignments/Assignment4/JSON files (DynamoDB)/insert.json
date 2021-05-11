@@ -1,0 +1,7 @@
+{
+	"musician_id": {"S":"mus1"},
+	"stage_name": {"S":"Roxy"},
+	"age": {"N":"20"},
+	"no_of_albums": {"N":"6"},
+	"best_songs": {"SS": ["song1","song2"]}
+}

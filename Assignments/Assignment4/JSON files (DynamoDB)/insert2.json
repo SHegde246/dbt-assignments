@@ -1,0 +1,8 @@
+{
+	"musician_id": {"S":"mus2"},
+	"stage_name": {"S":"Trixie"},
+	"age": {"N":"35"},
+	"no_of_albums": {"N":"8"},
+	"best_songs": {"SS": ["song3","song4"]},
+	"awards": {"S":"musicAward"}
+}

@@ -1,0 +1,4 @@
+{
+	"musician_id": {"S":"mus1"},
+	"stage_name": {"S":"Roxy"}
+}
